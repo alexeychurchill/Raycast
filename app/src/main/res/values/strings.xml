@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Raycast</string>
+    <string name="decrease_degree">Decrease degree</string>
+    <string name="increase_degree">Increase degree</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="up">Up</string>
+    <string name="down">Down</string>
+</resources>
